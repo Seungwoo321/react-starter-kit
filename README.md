@@ -1,12 +1,33 @@
 # React Staterkit
 
-## 기본 셋팅
+## 셋팅 정보
+
+### 브랜치 목록
+
+- start-vite-react
+- start-vite-react-with-lib
+- start-vite-react-ts
+- start-vite-react-ts-with-lib
+- start-vite-react-next
+- start-vite-react-next-with-lib
+- start-vite-react-ts-next
+- start-vite-react-ts-next-with-lib
+
+### 라이브러리 구성 목록
+
+- react-router
+- react-query
+- emotion
+
+## 셋팅하기
+
+### start-vite-react
+
+기본 설치
 
 ```bash
 npm create vite@latest react-project -- --template react
 ```
-
-## 추가 셋팅1 - ESLint Standard
 
 ESLint Standard 규칙 추가를 위한 라이브러리 설치
 
